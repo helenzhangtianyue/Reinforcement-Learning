@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-Study group
+From Sept. 2018 – Dec. 2018 five UBC students including three graduate students and two undergraduate students met once a week for 1.5 hours in ICICS x718 from 9:30am – 11am. From Jan. 2019 – May 2019 four UBC students (two graduates and two undergraduates) met twice a week, i.e., between 4pm – 5pm on Tuesday and between 9:30am – 11am on Thursday. During these sessions we conducted activities related to our directed studies in reinforcement learning (RL). These activities include reading and discussing the first 13 chapters of Richard Sutton’s RL text, exploring a small number of textbook exercises and coding examples, attending relevant seminars as well as reading and discussing advanced research papers. 
